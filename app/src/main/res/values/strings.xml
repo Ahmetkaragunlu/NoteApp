@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="jet_note_test">JetNoteApp-Test</string>
+    <string name="save_button">Save</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+</resources>
